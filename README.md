@@ -1,4 +1,4 @@
-### Hi, I'm Halegreen 👋
+### Hi, I'm halegreen 👋
 
 <!--
 **halegreen/halegreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
