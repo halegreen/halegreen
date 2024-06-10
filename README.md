@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working at Alibaba Cloud
-- 🌱 I’m currently learning Distributed System / Cloud Native / AI Infra / Serverless Computing 
+- 🌱 I’m currently learning Distributed System / Cloud Native 
 - 👯 I’m looking to collaborate on something cool
 - 📫 How to reach me: 1141195807@qq.com
 
